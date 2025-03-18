@@ -1,7 +1,5 @@
 # TEC-284-Lab-14
 
-  This program needs to be stored inside of a directory with your Tensorflow Lite model.
-  
-  Check your model's file name and ensure that it matches Line 12. 
-  
-  Also verify that your data labels match the Gesture Map on Lines 21-23. You will want to use the correct order! 
+We took 200+ pictures showing the gestures of "Rock", "Paper", and "Scissors". 
+The PI chose after we held up one of the gestures and chose rock paper or scissors, and
+based off the gesture we held up in the camera, determined who won!
